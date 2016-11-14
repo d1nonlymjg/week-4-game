@@ -1,0 +1,64 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	background-image: url("../images/rainbow-prisms.jpg");
+	color: white;
+}
+
+h1 {
+	background-color: red;
+	width: 305px;
+	padding-top: 20px;
+	padding-bottom: 20px;	
+}
+
+#instructions {
+
+}
+
+#targetNumber {
+
+}
+
+#winLoss {
+
+}
+
+#wins {
+
+}
+
+#losses {
+
+}
+
+#crystalSet {
+
+}
+
+#redCrystal {
+
+}
+
+#blueCrystal {
+
+}
+
+#yellowCrysatl {
+
+}
+
+#greenCrystal {
+
+}
+
+#yourScore {
+
+}
+
+#newGame {
+
+}
+
